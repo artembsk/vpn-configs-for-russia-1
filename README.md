@@ -62,12 +62,6 @@
 | | | |
 |---:|---|---|
 | **GitLab** | https://gitlab.com/igareck/vpn-configs-for-russia/ | Git-зеркало / open-core SaaS |
-| **Codeberg** | https://codeberg.org/igareck/vpn-configs-for-russia | Git-зеркало / FOSS |
-| **Gitea** | https://gitea.com/igareck/vpn-configs-for-russia | Git-зеркало / FOSS-based |
-| **SourceHut** | https://git.sr.ht/~igareck/vpn-configs-for-russia | Git-зеркало / FOSS |
-| **Bitbucket** | https://bitbucket.org/igareck/vpn-configs-for-russia/ | Git-зеркало / commercial |
-| **GitHack** | https://raw.githack.com/| Live RAW proxy |
-| **Yandex** | https://translate.yandex.ru/translate?url=ПОДПИСКА&lang=de-de | Whitelist RAW proxy Yandex+Bitbucket |
 | | | |
 
 ✦ **GitLab/Codeberg/Gitea/SourceHut/Bitbucket** - это полноценные копии GitHub, вся информация там (README и подписки) идентична оригиналу и у большинства **будет работать без VPN**. 
